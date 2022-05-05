@@ -8,6 +8,8 @@ $ cd go-groceries-rest-api
 
 $ go build
 
+$ go run main.go
+
 
 
 
